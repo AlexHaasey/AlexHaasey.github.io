@@ -1,0 +1,16 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+    color: #FFFFFF;
+    background-color: rgb(244, 122, 111)
+    
+}
+
+
+figure {
+    margin: 0;
+}
+
+main {
+    max-width: 600px;
+}
